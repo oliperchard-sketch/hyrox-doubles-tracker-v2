@@ -1,1 +1,16 @@
-{"name":"HYROX Doubles Training Tracker","short_name":"HYROX Tracker","start_url":"./","display":"standalone","background_color":"#f5f7fa","theme_color":"#111827","description":"8-week HYROX Doubles training tracker","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
+{
+  "name": "HYROX Doubles Tracker",
+  "short_name": "HYROX Doubles",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fa",
+  "theme_color": "#111827",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

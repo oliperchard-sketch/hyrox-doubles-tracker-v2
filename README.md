@@ -1,25 +1,9 @@
-# HYROX Doubles Training Tracker v2
+# HYROX Doubles Tracker v3
 
-Standalone Progressive Web App for the supplied 8-week HYROX Doubles programme.
+Static PWA for the 8-week HYROX Doubles programme.
 
-## Included
-- Full 8-week / 56-session programme from the source PDF
-- Programme start date and automatic session dates
-- Race-date countdown
-- Today / Calendar / Progress views
-- Full session details, preserving the source programme wording
-- Exercise-by-exercise set logging where structured set x rep prescriptions are present
-- Weight, actual reps, set RPE and completion per set
-- Session RPE, time and notes
-- Previous logged performance shown for repeated exercises
-- Local/offline storage
-- JSON backup export and restore
-- Installable PWA on Android/iOS-supported browsers
+Files can be deployed directly to GitHub Pages, Netlify, Cloudflare Pages, or another HTTPS static host.
 
-## Deploy
-Upload all files in this folder to any static HTTPS host. GitHub Pages, Netlify, Cloudflare Pages and similar hosts work.
+Important: `index.html` and `data.js` must be in the site root.
 
-Open the HTTPS URL on Android Chrome and choose Install app when offered.
-
-## Data
-Training data is stored in the browser/device. Use Settings > Export backup before changing devices or clearing browser data.
+Training logs are stored locally in the browser. Use Progress -> Export training data for a JSON backup.
